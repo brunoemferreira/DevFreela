@@ -3,6 +3,17 @@
 
 Aula : 
 
+## Structures
+
+> *Controllers* : 
+
+> *Actions* : 
+
+> *Models* : 
+
+> *Repository* : 
+
+> *Controllers* : 
 
 
 
@@ -12,7 +23,11 @@ Aula :
 
 
 
-```bash
+
+
+
+
+```powershell
 # Criar Solution
 $ dotnet new sln --name DevFreela
 
