@@ -1,7 +1,7 @@
 # DevFreela
 
 
-Aula : 
+Aula : Criando os endpoints - Parte 1 - 09:04
 
 ## Structures
 
@@ -14,16 +14,6 @@ Aula :
 > *Repository* : 
 
 > *Controllers* : 
-
-
-
-
-
-
-
-
-
-
 
 
 
