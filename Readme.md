@@ -35,4 +35,8 @@ $ dotnet run
 
 # Criar arquivo .gitignore para projetos .net
 $ dotnet new gitignore
+
+# Setar a variável de ambiente para desenvolvimentoß
+$ set ASPNETCORE_ENVIRONMENT="Development"
+
 ```
