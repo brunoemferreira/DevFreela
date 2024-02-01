@@ -1,7 +1,7 @@
 # DevFreela
 
 
-Aula : Criando os endpoints - Parte 1 - 09:04
+Aula : Configuração da Aplicação - Parte 1 - 
 
 ## Structures
 
