@@ -95,4 +95,17 @@ $ dotnet new gitignore
 # Setar a variável de ambiente para desenvolvimentoß
 $ set ASPNETCORE_ENVIRONMENT="Development"
 
+# Criar um Projeto do tipo classLib
+$ dotnet new classlib -o DevFreela.Core -n DevFreela.Core
+
+# Adicionar referencia do projeto DevFreela.Core no projeto DevFreela.Api
+# Tem que estar na pasta do projeto .API e fazer o comando abaixo
+$ dotnet add reference ../DevFreela.Core/DevFreela.Core.csproj
+
+# Como saber quais versões do .net esta instaladas
+$ dotnet --info
+
+# Como criar o arquivo global.json que serve para setar a versao que vc vai utilizar naquela solution ou projeto
+$ dotnet new global.json --sdk-version 6.0.418
+
 ```
